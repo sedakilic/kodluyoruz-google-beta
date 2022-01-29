@@ -1,0 +1,46 @@
+body{
+    background-color: #FFFFFF;
+}
+.bg-color{
+    background-color: #FFFFFF;
+}
+table{
+    border: 0;
+}
+.center-col{
+    margin: 0;
+    display: block;
+    text-align: center;
+}
+.center-cell{
+    display: block !important;
+    text-align: -webkit-center !important;
+}
+.content-center{
+    display: block !important;
+    text-align: -webkit-center !important;
+}
+.top-center{
+        display: block;
+        text-align: -webkit-center; 
+}
+.center-td-first{
+    text-align: -webkit-center; 
+    background-color: #7EE5DA;
+}
+.center-td-second{
+    text-align: -webkit-center; 
+    background-color: #70CCC2;
+}
+.center-td-thirst{
+    text-align: -webkit-center; 
+    background-color: #62B3AA;
+}
+.center-td-top{
+    background-color: #EEEEEE;
+}
+.footer-text{
+    display: block;
+    text-align: -webkit-center;
+
+}
